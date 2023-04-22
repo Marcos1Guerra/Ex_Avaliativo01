@@ -1,0 +1,16 @@
+{
+  "id" : 1,
+  "nome": "Leão",
+  "especie": "Panthera leo",
+  "idade": 5,
+  "habitat": {
+    "id_habitat": 1,
+    "nome": "Savana",
+    "tipo_ambiente": "Terrestre"
+  },
+    "cuidador": {
+      "id_cuidador": 1,
+      "nome": "João",
+      "documento": "1234567890"
+    }
+}
